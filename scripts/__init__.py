@@ -1,0 +1,2 @@
+
+from .modelClass import canceledFlightsModel
